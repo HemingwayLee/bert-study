@@ -8,11 +8,13 @@ pip3 install pytorch-pretrained-bert
 
 # Features (bi-direction, self-attention, word embedding, sentence embedding, and position embedding)
 
-https://www.youtube.com/watch?v=0EtD5ybnh_s
-
 Deep is better than wide for NLP  
 Small neural networks can only remember few things  
 Big neural networks need more data to train  
+
+# Ref  
+
+https://www.youtube.com/watch?v=0EtD5ybnh_s  
 
 https://pypi.org/project/pytorch-pretrained-bert/  
 
