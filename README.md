@@ -12,6 +12,9 @@ Deep is better than wide for NLP
 Small neural networks can only remember few things  
 Big neural networks need more data to train  
 
+# Language Model  
+https://datascience.stackexchange.com/questions/46377/can-bert-do-the-next-word-predict-task?rq=1  
+
 # Ref  
 
 https://www.youtube.com/watch?v=0EtD5ybnh_s  
