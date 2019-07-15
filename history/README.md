@@ -13,3 +13,5 @@ https://arxiv.org/pdf/1705.00108.pdf
 ## ELMO
 * Breakout version of word token vectors or contextual word vectors
 
+* Ref  
+https://arxiv.org/pdf/1802.05365.pdf
