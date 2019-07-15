@@ -15,13 +15,6 @@ Big neural networks need more data to train
 # Language Model  
 https://datascience.stackexchange.com/questions/46377/can-bert-do-the-next-word-predict-task?rq=1  
 
-# History
-## Pre-ELMO
-* Tag LM  
-https://arxiv.org/pdf/1705.00108.pdf  
-
-
-
 # Ref  
 
 https://www.youtube.com/watch?v=0EtD5ybnh_s  
