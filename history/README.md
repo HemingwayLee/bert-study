@@ -1,5 +1,8 @@
 # History
 
+## Idea
+* Context-specific word representation is the hidden layer of LSTM, we can take it and use it in other applications
+
 ## TagLM (Pre-ELMO)
 * `BiLSTM`, `char CNN`, `CRF layer`, it contains contextual information
 * Architecture  
