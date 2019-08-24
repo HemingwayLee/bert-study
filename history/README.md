@@ -34,3 +34,8 @@ https://arxiv.org/pdf/1802.05365.pdf
 ## Transformer
 * `GTP`, `BERT`, and `GTP-2` all use Transformer
 * We want things to go faster so we can build a bigger model
+* LSTM (or RNN) is great but slow (we can not use GPU to run it in parallel)
+  * The solution is `attention` or `CNN`
+  * Just use `attention` and don't use RNN -> `Transformer`
+
+
