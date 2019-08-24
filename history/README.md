@@ -3,7 +3,7 @@
 ## Idea
 * Context-specific word representation is the hidden layer of LSTM, we can take it and use it in other applications
 * The more data we used in pre-trained stage, less data we need in our real tasks
-* Similar ideas, just scaling thing: ELMO, ULMfit -> OpenAI GTP -> BERT -> OpenAI GTP-2
+* Similar ideas, just scaling thing: ELMO, ULMfit -> OpenAI `GTP` -> `BERT` -> OpenAI `GTP-2`
 
 ## TagLM (Pre-ELMO)
 * `BiLSTM`, `char CNN`, `CRF layer`, it contains contextual information
@@ -30,3 +30,7 @@ https://arxiv.org/pdf/1802.05365.pdf
 
 ## ULMfit
 * Similar idea to ELMO
+
+## Transformer
+* `GTP`, `BERT`, and `GTP-2` all use Transformer
+* We want things to go faster so we can build a bigger model
