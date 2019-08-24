@@ -20,6 +20,8 @@ https://arxiv.org/pdf/1705.00108.pdf
 * Weight for each layer of LSTM is learned, and weighted layers are used in ELMO
   * We can concatenate freezed representation (learned from ELMO) into hidden layers
   * We can also use it in other way
+  * Lower layer (more syntax): NER, POS tag, ...
+  * Higher layer (semantics): Sentiment, QA, ...
 
 * Ref  
 https://arxiv.org/pdf/1802.05365.pdf
