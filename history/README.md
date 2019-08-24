@@ -16,7 +16,7 @@ https://arxiv.org/pdf/1705.00108.pdf
 ## ELMO (Best Paper Award in 2018)
 * Breakout version of word token vectors or contextual word vectors
 * Make it easy to reuse the pretrained layers for other tasks
-* Use 2 biLSTM layers
+* TagLM uses top layer of LSTM, but ELMO uses all layers of LSTM
 
 * Ref  
 https://arxiv.org/pdf/1802.05365.pdf
