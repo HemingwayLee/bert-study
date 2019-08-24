@@ -17,6 +17,7 @@ https://arxiv.org/pdf/1705.00108.pdf
 * Breakout version of word token vectors or contextual word vectors
 * Make it easy to reuse the pretrained layers for other tasks
 * TagLM uses top layer of LSTM, but ELMO uses all layers of LSTM
+* Weight for each layer of LSTM is learned, and weighted layers are used in ELMO
 
 * Ref  
 https://arxiv.org/pdf/1802.05365.pdf
