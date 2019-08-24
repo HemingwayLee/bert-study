@@ -18,6 +18,8 @@ https://arxiv.org/pdf/1705.00108.pdf
 * Make it easy to reuse the pretrained layers for other tasks
 * TagLM uses top layer of LSTM, but ELMO uses all layers of LSTM
 * Weight for each layer of LSTM is learned, and weighted layers are used in ELMO
+  * We can concatenate freezed representation (learned from ELMO) into hidden layers
+  * We can also use it in other way
 
 * Ref  
 https://arxiv.org/pdf/1802.05365.pdf
