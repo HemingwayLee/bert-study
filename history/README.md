@@ -34,6 +34,12 @@ https://arxiv.org/pdf/1802.05365.pdf
 ## ULMfit
 * Similar idea to ELMO
 * Use transfer learning (language model -> text classification)
+* Use the same neural network for pre-training, fine-tuning, and the real classification task  
+![ULMfit](https://user-images.githubusercontent.com/8428372/66695266-7f1b8580-ecfa-11e9-8a83-d8fb93feb066.png)
+
+
+* Ref  
+https://arxiv.org/pdf/1801.06146.pdf
 
 ## Transformer
 * `GTP`, `BERT`, and `GTP-2` all use Transformer
