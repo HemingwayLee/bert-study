@@ -12,6 +12,7 @@
 ![taglm2](https://user-images.githubusercontent.com/8428372/61204145-6f09ff00-a727-11e9-9922-2f7c046ececb.png)
 
 ### Architecture (details)
+* LM is the language model which is trained (unsupervised learning) by predicting the next word
 ![taglm](https://user-images.githubusercontent.com/8428372/61204143-6e716880-a727-11e9-979a-eb550e6aed93.png)
 
 * Ref  
