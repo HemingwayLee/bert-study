@@ -33,6 +33,7 @@ https://arxiv.org/pdf/1802.05365.pdf
 
 ## ULMfit
 * Similar idea to ELMO
+* Use transfer learning (language model -> text classification)
 
 ## Transformer
 * `GTP`, `BERT`, and `GTP-2` all use Transformer
