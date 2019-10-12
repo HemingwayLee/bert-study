@@ -42,6 +42,7 @@ https://arxiv.org/pdf/1802.05365.pdf
 https://arxiv.org/pdf/1801.06146.pdf
 
 ## Transformer
+* It is seq2seq2 with `self-attention`
 * `GTP`, `BERT`, and `GTP-2` all use Transformer
 * We want things to go faster so we can build a bigger model
 * LSTM (or RNN) is great but slow (we can not use GPU to run it in parallel)
