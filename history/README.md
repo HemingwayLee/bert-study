@@ -47,6 +47,7 @@ https://arxiv.org/pdf/1801.06146.pdf
 * We want things to go faster so we can build a bigger model
 * LSTM (or RNN) is great but slow (we can not use GPU to run it in parallel)
   * The solution is `attention` or `CNN`
+    * `attention` is better that `CNN` because `CNN` can only get information from nearby tokens
   * Just use `attention` and don't use RNN -> `Transformer` -> use `attention` everywhere to calculate things
 
 * Ref
